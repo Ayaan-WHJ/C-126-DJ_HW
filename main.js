@@ -44,6 +44,6 @@ if (results.length > 0)
 function play()
 {
     song.play();
-    song.setVolume(10);
+    song.setVolume(1);
     song.rate(1);
 }
